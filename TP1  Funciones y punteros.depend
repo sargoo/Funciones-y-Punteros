@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662158309 source:c:\users\gonzaa\desktop\utn prog-lab\tp1  funciones y punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
